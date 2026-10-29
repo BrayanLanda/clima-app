@@ -1,0 +1,14 @@
+node_modules/
+dist/
+coverage/
+*.local
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+.vercel
+.env*
+test-results/
+playwright-report/
